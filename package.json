@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "ngx-owl-carousel-o": "^14.0.1"
+  },
+  "name": "edu_ang_july_2022-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
